@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Life is interesting, and among all my favourite things, R&D always take me quite a lot of time.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gmail](mailto:yihect@gmail.com)
+[163](mailto:yihect@163.com)
